@@ -49,6 +49,13 @@ Welcome to the YouTube Video Downloader repository! This tool allows you to down
     pip install -r requirements.txt
     ```
 
+## Workflow & Demo
+
+Here's an overview of how the Intelligent Eye website works:
+
+` First choose the file to generate caption`
+
+<img src="https://github.com/Muheet-m1/Image-Caption-Generator/blob/main/images/Screenshot%202024-06-01%20184415.png" height="600">
 ## Usage
 
 1. Run the downloader script:
