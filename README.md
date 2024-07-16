@@ -53,9 +53,9 @@ Welcome to the YouTube Video Downloader repository! This tool allows you to down
 
 Here's an overview of how the Intelligent Eye website works:
 
-` First choose the file to generate caption`
+` HERE YOU CAN SEE THE FRONTEND`
 
-<img src="https://github.com/Muheet-m1/Image-Caption-Generator/blob/main/images/Screenshot%202024-06-01%20184415.png" height="600">
+<img src="https://github.com/Muheet-m1/YouTube_video-downloader/blob/main/frontend/Screenshot%202024-06-27%20120300.png" height="600">
 ## Usage
 
 1. Run the downloader script:
